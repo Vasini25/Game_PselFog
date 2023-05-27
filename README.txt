@@ -1,6 +1,7 @@
 *PARA BAIXAR*
 
-Baixe todos os arquivos e execute 'PselFog.exe', contido na pasta 'Build'
+Baixe todos os arquivos contidos na pasta 'Build' e execute 'PselFog.exe'
+Ou baixe 'Build.zip' e execute 'PselFog.exe'
 
 
 *COMO JOGAR*
